@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-dwelo",
+  "name": "homebridge-dwelo-lights",
   "keywords": [
     "homebridge-plugin"
   ],
@@ -7,7 +7,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile": "tsc"
+    "start": "tsc"
   },
   "author": "",
   "license": "ISC",
